@@ -1,0 +1,192 @@
+/* Global styles */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background-color: #5c425b; /* Set the background color of the body */
+}
+
+/* Header styles */
+header {
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    height: 125px;
+    padding: 0 25px;
+}
+
+header div {
+    height: 115px;
+    width: auto;
+    flex-grow: 1;
+}
+
+header img {
+    height: 100%;
+    width: auto;
+}
+
+header h1 {
+    color: rgb(223, 39, 70);
+    margin: 0;
+    font-size: 50px;
+    text-align: center;
+    flex-grow: 20;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* CSS styles for section-1 */
+.section-1 {
+    font-family: 'Sedgwick Ave Display', cursive;
+    color: #40e0d0;
+    font-size: 35px;
+    margin: 0; /* Remove top and bottom margins to eliminate gaps */
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-2 */
+.section-2 {
+    font-family: 'Rock Salt', cursive;
+    color: #ffff00;
+    font-size: 25px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-3 */
+.section-3 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: #ff0000;
+    font-size: 27px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-4 */
+.section-4 {
+    font-family: 'Kalam', cursive;
+    color: #0000ff;
+    font-size: 37px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-5 */
+.section-5 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    color: #ffa500;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-6 */
+.section-6 {
+    font-family: 'Satisfy', cursive;
+    color: #000000;
+    font-size: 38px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-7 */
+.section-7 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: #ff0000;
+    font-size: 27px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-8 */
+.section-8 {
+    font-family: 'Kalam', cursive;
+    color: #0000ff;
+    font-size: 37px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-9 */
+.section-9 {
+    font-family: 'Raleway', sans-serif;
+    color: #ffa500;
+    font-size: 25px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-10 */
+.section-10 {
+    font-family: 'Fuggles', cursive;
+    color: rgb(208, 178, 27);
+    font-size: 45px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-11 */
+.section-11 {
+    font-family: 'Satisfy', cursive;
+    color: #ff0000;
+    font-size: 33px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-12 */
+.section-12 {
+    font-family: 'Raleway', sans-serif;
+    color: #ffa500;
+    font-size: 25px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-13 */
+.section-13 {
+    font-family: 'Fuggles', cursive;
+    color: rgb(208, 178, 27);
+    font-size: 45px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* CSS styles for section-14 */
+.section-14 {
+    font-family: 'Sedgwick Ave Display', cursive;
+    color: #ffff00;
+    font-size: 35px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* Footer styles */
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    margin: 0;
+}
